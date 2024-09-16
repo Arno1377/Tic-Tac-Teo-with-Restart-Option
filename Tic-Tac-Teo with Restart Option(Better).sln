@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tic-Tac-Teo with Restart Option(Better)", "Tic-Tac-Teo with Restart Option(Better).vcxproj", "{145109C4-5FA1-4F26-9AA7-1E2AAF8B0E79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{145109C4-5FA1-4F26-9AA7-1E2AAF8B0E79}.Debug|x64.ActiveCfg = Debug|x64
+		{145109C4-5FA1-4F26-9AA7-1E2AAF8B0E79}.Debug|x64.Build.0 = Debug|x64
+		{145109C4-5FA1-4F26-9AA7-1E2AAF8B0E79}.Debug|x86.ActiveCfg = Debug|Win32
+		{145109C4-5FA1-4F26-9AA7-1E2AAF8B0E79}.Debug|x86.Build.0 = Debug|Win32
+		{145109C4-5FA1-4F26-9AA7-1E2AAF8B0E79}.Release|x64.ActiveCfg = Release|x64
+		{145109C4-5FA1-4F26-9AA7-1E2AAF8B0E79}.Release|x64.Build.0 = Release|x64
+		{145109C4-5FA1-4F26-9AA7-1E2AAF8B0E79}.Release|x86.ActiveCfg = Release|Win32
+		{145109C4-5FA1-4F26-9AA7-1E2AAF8B0E79}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {183CAEEF-7E4D-4B7D-9A94-19DE056644F8}
+	EndGlobalSection
+EndGlobal
